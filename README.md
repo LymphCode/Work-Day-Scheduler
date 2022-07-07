@@ -17,9 +17,9 @@ THEN the saved events persist
 
 ## Pictures of the work day scheduler
 
-![screenshot1] (https://github.com/LymphCode/Work-Day-Scheduler/blob/main/assets/images/Screenshot%202022-07-06%20215555.png)
+![screenshot1](https://github.com/LymphCode/Work-Day-Scheduler/blob/main/assets/images/Screenshot%202022-07-06%20215555.png)
 
-![screenshot2] (https://github.com/LymphCode/Work-Day-Scheduler/blob/main/assets/images/Screenshot%202022-07-06%20215629.png)
+![screenshot2](https://github.com/LymphCode/Work-Day-Scheduler/blob/main/assets/images/Screenshot%202022-07-06%20215629.png)
 
 
 ## Link to deployed application
